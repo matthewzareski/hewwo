@@ -14,6 +14,7 @@ function setup() {
 
 function draw(){
 image(video, 0,0,300,300);
+//filter(INVERT); will invert the image colors/colours
 }
 
 function take_snapshot(){
